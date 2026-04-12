@@ -1,7 +1,7 @@
 # singlepageapp
-lets talk something intresting
-why don't we learn something new
-yes,sounds good and  a bit intresting
+lets talk something intresting.
+why don't we learn something new. 
+Yes,sounds good and  a bit intresting
 where should we start
  Let's start with intro
 Python is a high level programming language.Python was created by Guido van Rossum and first released in 1991.
